@@ -1,2 +1,0 @@
-# jader
-Created with CodeSandbox
